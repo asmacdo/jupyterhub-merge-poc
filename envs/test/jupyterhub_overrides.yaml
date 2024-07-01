@@ -1,0 +1,6 @@
+outer:
+  inner:
+    test: override_value
+  new_inner: override_new_inner
+  new2: heyo
+new_outer: override_new_outer

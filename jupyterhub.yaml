@@ -1,0 +1,5 @@
+outer:
+  inner:
+    test: default_value
+    template_test: ${template_test}
+outer2: someval

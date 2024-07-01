@@ -1,0 +1,8 @@
+new_outer: override_new_outer
+outer:
+  inner:
+    template_test: ${template_test}
+    test: override_value
+  new2: heyo
+  new_inner: override_new_inner
+outer2: someval
